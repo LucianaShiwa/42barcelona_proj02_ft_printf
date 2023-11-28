@@ -102,7 +102,6 @@ int main()
 	int original_d;
 	int original_i;
 	int original_u;
-	int original_p;
 	int original_hp;
 	int original_hl;
 	int original_hu;
@@ -112,7 +111,6 @@ int main()
 	int mine_d;
 	int mine_i;
 	int mine_u;
-	int mine_p;
 	int mine_hp;
 	int mine_hl;
 	int mine_hu;
